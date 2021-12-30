@@ -1,0 +1,147 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #fefaf6;
+
+}
+
+/* .menu-items-section{
+    text-align: right;
+
+} */
+
+.menu-items-container {
+    padding: 1.7% 13% 1.7% 12%;
+
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+/* .navbar-nav{
+    padding: 0 8% 0 0;
+} */
+
+.nav-item {
+    font-weight: 200;
+}
+
+.skill {
+    padding-right: 30px;
+}
+
+.experiance {
+    padding-right: 10px;
+}
+
+.intro-container {
+    padding: 4% 7% 3% 12%;
+}
+
+.row {
+    margin: 0;
+}
+
+.intro-desc {
+    padding: 6% 3% 0 0;
+}
+
+h1 {
+    font-weight: 900;
+    font-family: 'Suez One', serif;
+    font-size: 4em;
+}
+
+h2 {
+    font-weight: 900;
+    font-family: 'Suez One', serif;
+    margin: 0;
+}
+
+.intro-desc-para {
+    padding: 2% 0 6% 0;
+    margin: 0;
+}
+
+.btn-social-media{
+    color: white;
+}
+
+.btn-social-media:hover{
+    color: white;
+}
+
+.intro-pic {
+    padding: 2% 8% 0 8%;
+    border-radius: 35px;
+}
+
+.shadow {
+    border-radius: 23px;
+}
+
+.img-fluid {
+    border-radius: 12px;
+}
+
+@media (max-width:1028px) {
+    .intro-pic {
+        padding: 5% 8% 0 0%;
+    }
+}
+/* scroll up Button */
+#btn-back-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display: none;
+  }
+
+.btn-floating{
+    border-radius: 50%;
+}
+
+/* Experiance */
+.timeline-container {
+    padding: 8% 7% 3% 7%;
+    margin: 0;
+}
+
+.timeline-heading {
+    padding-left: 6%;
+    text-decoration: underline;
+    padding: 0% 0% 3% 6%;
+}
+
+.skills-heading {
+    padding: 0% 0% 3% 6%;
+    text-decoration: underline;
+}
+
+.skill-col {
+    padding: 3% 0%;
+    list-style-type: none;
+
+}
+
+ul.no-bullets {
+    list-style-type: none;
+    /* Remove bullets */
+    padding: 0 3%;
+    /* Remove padding */
+    margin: 0;
+    /* Remove margins */
+}
+
+.skill-title {
+    display: inline-block;
+    width: 60%;
+}
+
+.checked {
+    color: orange;
+}
+
+.star-container {
+    float: right;
+}
