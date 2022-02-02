@@ -4,10 +4,16 @@ body {
 
 }
 
-/* .menu-items-section{
-    text-align: right;
+html{
+    scroll-behavior: smooth;
+}
 
-} */
+.menu-items-section{
+    /* position: sticky; */
+    top: 0;
+    background-color: #fefaf6;
+
+}
 
 .menu-items-container {
     padding: 1.7% 13% 1.7% 12%;
@@ -100,8 +106,8 @@ h2 {
 .btn-floating{
     border-radius: 50%;
 }
+/* Time line */
 
-/* Experiance */
 .timeline-container {
     padding: 8% 7% 3% 7%;
     margin: 0;
@@ -113,6 +119,8 @@ h2 {
     padding: 0% 0% 3% 6%;
 }
 
+
+/* Experiance */
 .skills-heading {
     padding: 0% 0% 3% 6%;
     text-decoration: underline;
