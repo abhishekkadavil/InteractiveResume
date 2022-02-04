@@ -69,9 +69,18 @@ h2 {
     margin: 0;
 }
 
-.btn-social-media{
+.btn-download{
+    text-decoration: none;
     color: white;
 }
+
+.btn-download:hover{
+    color: white;
+}
+
+.btn-social-media{
+    color: white;
+}   
 
 .btn-social-media:hover{
     color: white;
