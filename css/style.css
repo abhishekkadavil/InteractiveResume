@@ -95,6 +95,15 @@ h2 {
         padding: 5% 8% 0 0%;
     }
 }
+
+/* email mobile styling */
+.email-contact{
+    padding: 2% 0 0 0;
+}
+.mob-contact{
+    padding: 1.5% 0 0 0;
+}
+
 /* scroll up Button */
 #btn-back-to-top {
     position: fixed;
